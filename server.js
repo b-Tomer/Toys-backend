@@ -50,7 +50,9 @@ app.get('/api/toy', (req, res) => {
         })
 })
 
-// Add
+
+
+// Addddd
 app.post('/api/toy', (req, res) => {
     const loggedinUser = userService.validateToken(req.cookies.loginToken)
     if (!loggedinUser) return res.status(401).send('Cannot add toy')
