@@ -1,0 +1,249 @@
+[
+    {
+      "_id": "t101",
+      "name": "Talking Doll",
+      "price": 123,
+      "labels": [
+        "Doll",
+        "Battery Powered",
+        "Baby",
+        "On wheels",
+        "Outdoor"
+      ],
+      "createdAt": 1631031801011,
+      "inStock": true
+    },
+    {
+      "_id": "t103",
+      "name": "Flying buzz",
+      "price": 650,
+      "labels": [
+        "Outdoor",
+        "Battery Powered",
+        "Baby",
+        "Box game",
+        "Puzzle"
+      ],
+      "createdAt": 1631031801015,
+      "inStock": false
+    },
+    {
+      "_id": "t105",
+      "name": "Colorful Blocks",
+      "price": 15,
+      "labels": [
+        "Art",
+        "Puzzle"
+      ],
+      "createdAt": 1631031801032,
+      "inStock": true
+    },
+    {
+      "_id": "t107",
+      "name": "Musical Keyboard",
+      "price": 45,
+      "labels": [
+        "Battery Powered",
+        "Art"
+      ],
+      "createdAt": 1631031801047,
+      "inStock": true
+    },
+    {
+      "_id": "t109",
+      "name": "Building Blocks",
+      "price": 25,
+      "labels": [
+        "Art",
+        "Puzzle"
+      ],
+      "createdAt": 1631031801065,
+      "inStock": true
+    },
+    {
+      "_id": "t111",
+      "name": "Remote Control Car",
+      "price": 80,
+      "labels": [
+        "Outdoor",
+        "Battery Powered"
+      ],
+      "createdAt": 1631031801081,
+      "inStock": true
+    },
+    {
+      "_id": "t113",
+      "name": "Teddy Bear",
+      "price": 30,
+      "labels": [
+        "Baby",
+        "Doll"
+      ],
+      "createdAt": 1631031801097,
+      "inStock": false
+    },
+    {
+      "_id": "t115",
+      "name": "Wooden Train Set",
+      "price": 55,
+      "labels": [
+        "Art",
+        "Puzzle",
+        "On wheels"
+      ],
+      "createdAt": 1631031801114,
+      "inStock": true
+    },
+    {
+      "_id": "t117",
+      "name": "Stacking Cups",
+      "price": 10,
+      "labels": [
+        "Baby",
+        "Puzzle"
+      ],
+      "createdAt": 1631031801130,
+      "inStock": true
+    },
+    {
+      "_id": "t119",
+      "name": "Toy Kitchen Set",
+      "price": 70,
+      "labels": [
+        "Baby",
+        "Art"
+      ],
+      "createdAt": 1631031801146,
+      "inStock": true
+    },
+    {
+      "_id": "t121",
+      "name": "Remote Control Helicopter",
+      "price": 95,
+      "labels": [
+        "Outdoor",
+        "Battery Powered"
+      ],
+      "createdAt": 1631031801162,
+      "inStock": false
+    },
+    {
+      "_id": "t123",
+      "name": "Drawing Board",
+      "price": 20,
+      "labels": [
+        "Art"
+      ],
+      "createdAt": 1631031801179,
+      "inStock": true
+    },
+    {
+      "_id": "t125",
+      "name": "Shape Sorting Toy",
+      "price": 18,
+      "labels": [
+        "Baby",
+        "Puzzle"
+      ],
+      "createdAt": 1631031801196,
+      "inStock": true
+    },
+    {
+      "_id": "t127",
+      "name": "Remote Control Boat",
+      "price": 85,
+      "labels": [
+        "Outdoor",
+        "Battery Powered"
+      ],
+      "createdAt": 1631031801212,
+      "inStock": true
+    },
+    {
+      "_id": "t129",
+      "name": "Stuffed Animal",
+      "price": 35,
+      "labels": [
+        "Baby",
+        "Doll"
+      ],
+      "createdAt": 1631031801229,
+      "inStock": false
+    },
+    {
+      "_id": "t131",
+      "name": "Building Bricks",
+      "price": 22,
+      "labels": [
+        "Art",
+        "Puzzle"
+      ],
+      "createdAt": 1631031801246,
+      "inStock": true
+    },
+    {
+      "_id": "t133",
+      "name": "Toy Drum Set",
+      "price": 40,
+      "labels": [
+        "Battery Powered",
+        "Art"
+      ],
+      "createdAt": 1631031801262,
+      "inStock": true
+    },
+    {
+      "_id": "t135",
+      "name": "Pull-Along Toy",
+      "price": 28,
+      "labels": [
+        "Baby",
+        "On wheels"
+      ],
+      "createdAt": 1631031801278,
+      "inStock": true
+    },
+    {
+      "_id": "t137",
+      "name": "Art Easel",
+      "price": 60,
+      "labels": [
+        "Art"
+      ],
+      "createdAt": 1631031801295,
+      "inStock": true
+    },
+    {
+      "_id": "t139",
+      "name": "Remote Control Robot",
+      "price": 90,
+      "labels": [
+        "Battery Powered",
+        "Art"
+      ],
+      "createdAt": 1631031801312,
+      "inStock": false
+    },
+    {
+      "_id": "t141",
+      "name": "Stacking Rings",
+      "price": 12,
+      "labels": [
+        "Baby",
+        "Puzzle"
+      ],
+      "createdAt": 1631031801328,
+      "inStock": true
+    },
+    {
+      "_id": "t143",
+      "name": "Remote Control Car",
+      "price": 75,
+      "labels": [
+        "Outdoor",
+        "Battery Powered"
+      ],
+      "createdAt": 1631031801345,
+      "inStock": true
+    } 
+  ]
